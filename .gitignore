@@ -1,0 +1,6 @@
+#Bytecode
+target/
+
+#IntelliJ
+.idea
+*.iml
